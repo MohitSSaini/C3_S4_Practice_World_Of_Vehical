@@ -9,5 +9,11 @@ public class PetrolEngines extends Engines {
     private double displacement;
     private int noOfCylinder;
     
+    public PetrolEngines ( ) {
+    }
+    
+    public PetrolEngines ( String modelNumber , double maxPower , double maxRpm ) {
+        super ( modelNumber , maxPower , maxRpm );
+    }
     
 }
