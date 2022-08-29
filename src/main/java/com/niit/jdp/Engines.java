@@ -42,5 +42,4 @@ public class Engines {
     public void setMaxRpm ( double maxRpm ) {
         this.maxRpm = maxRpm;
     }
-    
 }
