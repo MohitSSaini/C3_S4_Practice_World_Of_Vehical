@@ -19,4 +19,28 @@ public class Engines {
         this.maxRpm = maxRpm;
     }
     
+    public String getModelNumber ( ) {
+        return modelNumber;
+    }
+    
+    public void setModelNumber ( String modelNumber ) {
+        this.modelNumber = modelNumber;
+    }
+    
+    public double getMaxPower ( ) {
+        return maxPower;
+    }
+    
+    public void setMaxPower ( double maxPower ) {
+        this.maxPower = maxPower;
+    }
+    
+    public double getMaxRpm ( ) {
+        return maxRpm;
+    }
+    
+    public void setMaxRpm ( double maxRpm ) {
+        this.maxRpm = maxRpm;
+    }
+    
 }
