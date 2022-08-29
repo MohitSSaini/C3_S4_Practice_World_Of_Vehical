@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28fa3bd0-1591-4c0e-8697-08f69fc75f86" name="Changes" comment="Define attributes and variables in DieselEngines.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/CngEngines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/DieselEngines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/DieselEngines.java" afterDir="false" />
-    </list>
+    <list default="true" id="28fa3bd0-1591-4c0e-8697-08f69fc75f86" name="Changes" comment="define a getter and setter class in CngEngines.java class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +146,49 @@
       <option name="project" value="LOCAL" />
       <updated>1661801936959</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="create a constructor and super class  in DieselEngines.java class">
+      <created>1661802068181</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802068181</updated>
+    </task>
+    <task id="LOCAL-00016" summary="create a Getter and Setter method in DieselEngines.java class">
+      <created>1661802160751</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802160751</updated>
+    </task>
+    <task id="LOCAL-00017" summary="create a Getter and Setter method in DieselEngines.java class">
+      <created>1661802172722</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802172722</updated>
+    </task>
+    <task id="LOCAL-00018" summary="define a attributes in variable in CngEngines.java class">
+      <created>1661802267017</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802267017</updated>
+    </task>
+    <task id="LOCAL-00019" summary="define a Constructor and super class in CngEngines.java class">
+      <created>1661802318690</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802318690</updated>
+    </task>
+    <task id="LOCAL-00020" summary="define a getter and setter class in CngEngines.java class">
+      <created>1661802345626</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1661802345626</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +217,12 @@
     <MESSAGE value="Define a Constructor and super class in ElectricEngines.java class" />
     <MESSAGE value="Define a getter and setter method class in ElectricEngines.java class" />
     <MESSAGE value="Define attributes and variables in DieselEngines.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Define attributes and variables in DieselEngines.java class" />
+    <MESSAGE value="create a constructor and super class  in DieselEngines.java class" />
+    <MESSAGE value="create a Getter and Setter method in DieselEngines.java class" />
+    <MESSAGE value="define a attributes in variable in CngEngines.java class" />
+    <MESSAGE value="define a Constructor and super class in CngEngines.java class" />
+    <MESSAGE value="define a getter and setter class in CngEngines.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="define a getter and setter class in CngEngines.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

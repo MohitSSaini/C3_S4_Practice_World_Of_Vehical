@@ -16,4 +16,14 @@ public class CngEngines extends Engines {
         super ( modelNumber , maxPower , maxRpm );
         this.typeOfCNG = typeOfCNG;
     }
+    
+    public String getTypeOfCNG ( ) {
+        return typeOfCNG;
+    }
+    
+    public void setTypeOfCNG ( String typeOfCNG ) {
+        this.typeOfCNG = typeOfCNG;
+    }
+    
+    
 }
