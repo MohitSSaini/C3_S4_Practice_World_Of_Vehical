@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28fa3bd0-1591-4c0e-8697-08f69fc75f86" name="Changes" comment="Change maven version 18 to 11 jdp in pom.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="28fa3bd0-1591-4c0e-8697-08f69fc75f86" name="Changes" comment="Define getter and setter method in Engines.java">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/CngEngines.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/DieselEngines.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/ElectricEngines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Engines.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/PetrolEngines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Engines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Engines.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +68,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661790698055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Define attributes variable in Engines.java class">
+      <created>1661800835600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800835600</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Define Constructor in Engines.java class">
+      <created>1661800898508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800898508</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Define getter and setter method in Engines.java">
+      <created>1661800941224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661800941224</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +106,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Change maven version 18 to 11 jdp in pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change maven version 18 to 11 jdp in pom.xml" />
+    <MESSAGE value="Define attributes in Engines.java class" />
+    <MESSAGE value="Define attributes variable in Engines.java class" />
+    <MESSAGE value="Define Constructor in Engines.java class" />
+    <MESSAGE value="Define getter and setter method in Engines.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Define getter and setter method in Engines.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
