@@ -10,4 +10,13 @@ public class Engines {
     private double maxPower;
     private double maxRpm;
     
+    public Engines ( ) {
+    }
+    
+    public Engines ( String modelNumber , double maxPower , double maxRpm ) {
+        this.modelNumber = modelNumber;
+        this.maxPower = maxPower;
+        this.maxRpm = maxRpm;
+    }
+    
 }
