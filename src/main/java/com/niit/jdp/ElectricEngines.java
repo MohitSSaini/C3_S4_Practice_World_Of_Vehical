@@ -17,4 +17,11 @@ public class ElectricEngines extends Engines {
         this.voltages = voltages;
     }
     
+    public double getVoltages ( ) {
+        return voltages;
+    }
+    
+    public void setVoltages ( double voltages ) {
+        this.voltages = voltages;
+    }
 }
