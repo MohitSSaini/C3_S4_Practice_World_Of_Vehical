@@ -17,4 +17,12 @@ public class DieselEngines extends Engines {
         this.typeOfFuel = typeOfFuel;
     }
     
+    public String getTypeOfFuel ( ) {
+        return typeOfFuel;
+    }
+    
+    public void setTypeOfFuel ( String typeOfFuel ) {
+        this.typeOfFuel = typeOfFuel;
+    }
+    
 }
