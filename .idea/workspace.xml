@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28fa3bd0-1591-4c0e-8697-08f69fc75f86" name="Changes" comment="Define getter and setter method in Engines.java">
+    <list default="true" id="28fa3bd0-1591-4c0e-8697-08f69fc75f86" name="Changes" comment="Define a Getter and Setter class in PetrolEngines.java class">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/CngEngines.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/DieselEngines.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/ElectricEngines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/PetrolEngines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Engines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/Engines.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,35 @@
       <option name="project" value="LOCAL" />
       <updated>1661800941224</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Define a attributes variable in PetrolEngines.java class">
+      <created>1661801071908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661801071908</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Define a Constructor and supper class in PetrolEngines.java class">
+      <created>1661801131481</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661801131481</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Define a Getter and Setter class in PetrolEngines.java class">
+      <created>1661801166974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661801166974</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Define a Getter and Setter class in PetrolEngines.java class">
+      <created>1661801182825</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661801182825</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +136,10 @@
     <MESSAGE value="Define attributes variable in Engines.java class" />
     <MESSAGE value="Define Constructor in Engines.java class" />
     <MESSAGE value="Define getter and setter method in Engines.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Define getter and setter method in Engines.java" />
+    <MESSAGE value="Define a attributes variable in PetrolEngines.java class" />
+    <MESSAGE value="Define a Constructor and supper class in PetrolEngines.java class" />
+    <MESSAGE value="Define a Getter and Setter class in PetrolEngines.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Define a Getter and Setter class in PetrolEngines.java class" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
